@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               File-Listing
-version:            6.00
+version:            6.01
 abstract:           parse directory listing
 author:
     - Gisle Aas <gisle@activestate.com>
@@ -15,7 +15,7 @@ requires:
     perl:        5.008008
 resources:
     MailingList:  mailto:libwww@perl.org
-    repository:   http://github.com/gisle/libwww-perl
+    repository:   http://github.com/gisle/libwww-perl/tree/File-Listing/master
 no_index:
     directory:
         - t
