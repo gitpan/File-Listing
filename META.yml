@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               File-Listing
-version:            6.01
+version:            6.02
 abstract:           parse directory listing
 author:
     - Gisle Aas <gisle@activestate.com>
